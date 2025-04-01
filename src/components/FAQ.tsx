@@ -63,8 +63,8 @@ const FAQ = () => {
         <div className="mt-12 text-center">
           <p className="text-gray-600 mb-4">Ainda tem dúvidas? Entre em contato conosco</p>
           <div className="flex justify-center">
-            <a href="mailto:contato@chatgptrateio.com.br" className="text-purple-600 hover:text-purple-700 font-medium">
-              contato@chatgptrateio.com.br
+            <a href="mailto:contato@avamidia.com" className="text-purple-600 hover:text-purple-700 font-medium">
+              contato@avamidia.com
             </a>
           </div>
         </div>
