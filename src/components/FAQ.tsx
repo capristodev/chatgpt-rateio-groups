@@ -1,4 +1,3 @@
-
 import React from 'react';
 import {
   Accordion,
@@ -15,6 +14,10 @@ const faqItems = [
   {
     question: "É permitido compartilhar a conta do ChatGPT Plus?",
     answer: "Nosso serviço funciona de forma que cada membro do grupo tenha sua própria sessão independente, e gerenciamos o acesso de modo que esteja de acordo com os termos de uso."
+  },
+  {
+    question: "Cada pessoa tem sua própria pasta no ChatGPT?",
+    answer: "Sim! Cada membro do grupo tem sua pasta individual na plataforma, garantindo privacidade e organização. Seus projetos e conversas ficam apenas na sua pasta pessoal, totalmente separados dos outros membros."
   },
   {
     question: "Quanto vou economizar com o compartilhamento?",
