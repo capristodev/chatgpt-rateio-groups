@@ -12,7 +12,7 @@ const Hero = () => {
               ChatGPT Plus em <span className="gradient-text">Grupo</span> por uma Fração do Preço
             </h1>
             <p className="text-xl text-gray-600">
-              Divida o acesso premium ao ChatGPT com até 6 pessoas e pague muito menos. Acesso ilimitado a todos os recursos por menos de R$12 por mês por pessoa.
+              Divida o acesso premium ao ChatGPT com até 6 pessoas e pague muito menos. Acesso ilimitado a todos os recursos por apenas R$34.90 por mês por pessoa.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 pt-4">
               <Button className="bg-gradient-to-r from-purple-600 to-azure-500 hover:from-purple-700 hover:to-azure-600 text-lg px-8 py-6">
@@ -47,15 +47,15 @@ const Hero = () => {
                 <div className="space-y-4">
                   <div className="flex justify-between border-b pb-3">
                     <span className="text-gray-600">Preço original</span>
-                    <span className="font-medium">R$97/mês</span>
+                    <span className="font-medium">R$125/mês</span>
                   </div>
                   <div className="flex justify-between border-b pb-3">
                     <span className="text-gray-600">Preço em grupo (6 pessoas)</span>
-                    <span className="font-bold text-purple-600">R$16/mês</span>
+                    <span className="font-bold text-purple-600">R$34.90/mês</span>
                   </div>
                   <div className="flex justify-between">
                     <span className="text-gray-600">Economia</span>
-                    <span className="font-bold text-green-600">83%</span>
+                    <span className="font-bold text-green-600">72%</span>
                   </div>
                 </div>
               </div>

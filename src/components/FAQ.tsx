@@ -18,7 +18,7 @@ const faqItems = [
   },
   {
     question: "Quanto vou economizar com o compartilhamento?",
-    answer: "Em um grupo de 6 pessoas, você paga apenas R$16 por mês, em vez dos R$97 da assinatura individual. Isso representa uma economia de aproximadamente 83%."
+    answer: "Em um grupo de 6 pessoas, você paga apenas R$34.90 por mês, em vez dos R$125 da assinatura individual. Isso representa uma economia de aproximadamente 72%."
   },
   {
     question: "Como é feito o pagamento?",

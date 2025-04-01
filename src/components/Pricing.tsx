@@ -20,7 +20,7 @@ const Pricing = () => {
               <h3 className="text-xl font-bold mb-2">ChatGPT Plus Individual</h3>
               <p className="text-gray-500 mb-4">Preço padrão da OpenAI</p>
               <div className="mb-4">
-                <span className="text-4xl font-bold">R$97</span>
+                <span className="text-4xl font-bold">R$125</span>
                 <span className="text-gray-500">/mês</span>
               </div>
             </div>
@@ -54,9 +54,9 @@ const Pricing = () => {
             </div>
             <div className="text-center mb-6">
               <h3 className="text-xl font-bold mb-2">ChatGPT Plus em Grupo</h3>
-              <p className="text-gray-500 mb-4">Economia de 83%</p>
+              <p className="text-gray-500 mb-4">Economia de 72%</p>
               <div className="mb-4">
-                <span className="text-4xl font-bold text-purple-600">R$16</span>
+                <span className="text-4xl font-bold text-purple-600">R$34.90</span>
                 <span className="text-gray-500">/mês</span>
               </div>
               <p className="text-sm text-gray-500">por pessoa em grupo de 6</p>
